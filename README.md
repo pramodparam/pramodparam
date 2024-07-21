@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodparam&label=Profile%20views&color=0e75b6&style=flat" alt="pramodparam" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on **React, ML & AI **<br><br>🌱 I’m currently learning Flask , AI.<br><br>👨‍💻 All of my projects are available at https://pr-my-portfolio.vercel.app<br><br>💬 Ask me about MERN ,Azure DevOps<br><br>📫 How to reach me pramodparam24@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1NOX5EPUIBB7Kee39GACKfQdylqLOgOGj/view
+🔭 I’m currently working on **Flutter Android Multiplatforms**<br><br>🌱 I’m currently learning  AI.<br><br>👨‍💻 All of my projects are available at https://pr-my-portfolio.vercel.app<br><br>💬 Ask me about MERN ,Flutter <br><br>📫 How to reach me pramodparam24@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1NOX5EPUIBB7Kee39GACKfQdylqLOgOGj/view
 
 
 ## 🌐 Socials:
